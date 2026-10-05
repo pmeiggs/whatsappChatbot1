@@ -1,0 +1,5 @@
+fastapi
+mangum
+httpx
+uvicorn
+python-dotenv
